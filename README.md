@@ -1,3 +1,3 @@
 # demo
-my demo \n
+my demo .
 my name is rohan 
